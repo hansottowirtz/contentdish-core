@@ -1,0 +1,22 @@
+{
+  "name": "contentdish-core",
+  "homepage": "https://github.com/hansottowirtz/contentdish-core",
+  "authors": [
+    "Hans Otto Wirtz <hansottowirtz@gmail.com>"
+  ],
+  "description": "Contentdish Core functions",
+  "main": "dist/contentdish-core.js",
+  "keywords": [
+    "httpong"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!dist/*",
+    "!src/*"
+  ],
+  "dependencies": {
+    "httpong": "~0.3.2"
+  },
+  "version": "0.1.0"
+}
